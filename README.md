@@ -1,4 +1,4 @@
- 👋 Hi, I’m @DragonDreat, and I'm interrested in Software Engineering! Ready for collab?
+ 👋 Hi, I’m @DragonDreat, and I'm interested in Software Engineering! Ready for collab?
 
 
 # 💻 Tech Stack:
