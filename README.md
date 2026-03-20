@@ -14,7 +14,7 @@ I’m also starting to improve my backend skills. I do know PHP, but it feels a 
 
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,7 +31,7 @@ I’m also starting to improve my backend skills. I do know PHP, but it feels a 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDreat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=DragonDreat&theme=dark&hide_border=false)<br/>
