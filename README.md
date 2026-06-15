@@ -11,6 +11,9 @@ I also have some side projects like “OfficerDuck” and “EmRec.” I wrote t
 
 I’m also starting to improve my backend skills. I do know PHP, but it feels a bit outdated, so I’m trying to switch to Node.js frameworks instead.
 
+Also I'm kinda old school so I do play games like SAMP (San Andreas Multiplayer) and GTA IV etc.. so I did make a couple of gamemodes for some servers with pawno a really old language lol. 
+Cya!
+
 
 
 
