@@ -5,7 +5,7 @@
 # Who Am I ?
 Hi, my name is Dragon (that’s what they call me). I’m a full-stack developer, and I love TypeScript and HTML!
 
-My current focus is on my new project, “Xevy.” It’s a Docker manager designed for home-hosting services. It’s not public yet—I’m still working on it. And sorry to future users, but it’s Linux-only for now :/
+My current focus is on my new project, "Xevy" It will be an open-source forum, on the side I actively work on discord bots and some side project websites..
 
 I also have some side projects like “OfficerDuck” and “EmRec.” I wrote them in Python because it’s simple and easy to use. It’s also the second language I know best, after front-end development.
 
